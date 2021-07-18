@@ -1,0 +1,46 @@
+h1{
+    background-color: white;
+    color: darkblue;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bolder;
+    border-radius: 20px;
+    border-color: red;
+
+}
+body{
+    background-image: url('/stars.jpg');width: 100%;
+}
+nav{
+     background-color: palevioletred;
+     color:black;
+     font-size: 45px;
+     text-align: right;
+}
+h2{
+    font-size: 38px;
+    text-align: center;
+    color: white;
+}
+#same{
+    font-size: 38px;
+    text-align: center;
+    color: white;
+}
+#writer{
+    font-size: 38px;
+    text-align: right;
+    color: white;
+}
+
+.container{
+    background-image: url('/pexels-photo-1629236.jpeg');width: 800px;height: 450px;;
+} 
+footer{
+    text-align: center;
+   
+      
+}
+#check{
+    text-align: right;
+}

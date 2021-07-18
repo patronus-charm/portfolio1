@@ -1,0 +1,30 @@
+#about{
+   
+    text-align: left;
+    font-size: 150px;
+    font-weight: bolder;
+    color: white;
+}
+body{
+    background-color: aqua;
+}
+nav{
+    background-color: black;
+    color:white;
+    font-size: 45px;
+    text-align: center;
+}
+#stu{
+    font-size: 30px;
+    color: white;
+}
+.header{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#photo{
+    background-image: url('./white.jpg');
+    font-size: 20px;
+    font-weight: bold;
+}
